@@ -10,7 +10,7 @@ if ! command -v killall &> /dev/null; then
 fi
 
 # Check if the log file is empty or contains "cu0 0.00"
-if [ ! -s "$LOG_FILE" ] || grep -q "cu0 0.00" "$LOG_FILE"; then
+if [ ! -s "$LOG_FILE" ] || sed 's/\x1b\[[0-9;]*m//g' "$LOG_FILE" | grep -q "cu0 0.00"; then
     echo "Miner is not running, hash power is zero, or log file is empty. Restarting miner..."
     killall -9 quai-gpu-miner-nvidia
     $MINER_START_SCRIPT &
