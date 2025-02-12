@@ -35,3 +35,981 @@
 [94m i [35m11:55:48 [94mquai-gpu-miner- [0mJob: [97m60f36dee… block 28196[0m koala.straffesites.be [194.163.144.34:3333]
 [94m i [35m11:55:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
 [94m i [35m11:55:49 [94mquai-gpu-miner- [0mJob: [97m7b5e0237… block 28196[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:49 [94mquai-gpu-miner- [0mJob: [97m3e00e0fe… block 28196[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:50 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.40 Gh[0m
+[94m i [35m11:55:50 [94mquai-gpu-miner- [0mJob: [97mcc62c030… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:55:50 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:55:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:51 [94mquai-gpu-miner- [0mJob: [97me94adcbf… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:51 [94mquai-gpu-miner- [0mJob: [97m56eb9da1… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:52 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.53 Gh[0m
+[94m i [35m11:55:52 [94mquai-gpu-miner- [0mJob: [97m7f2303f4… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:52 [94mquai-gpu-miner- [0mJob: [97md6621588… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:53 [94mquai-gpu-miner- [0mJob: [97m38096ede… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:53 [94mquai-gpu-miner- [0mJob: [97m4e86468a… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:54 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:54 [94mquai-gpu-miner- [0mJob: [97ma309423e… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:55 [94mquai-gpu-miner- [0mJob: [97m9d2ff00d… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:55:55 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:55:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:55 [94mquai-gpu-miner- [0mJob: [97m9a879a4e… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:56 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:56 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.65 Gh[0m
+[94m i [35m11:55:56 [94mquai-gpu-miner- [0mJob: [97m2174dec8… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:57 [94mquai-gpu-miner- [0mJob: [97m1a5b0011… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:57 [94mquai-gpu-miner- [0mJob: [97m262f4c94… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:58 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:58 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.62 Gh[0m
+[94m i [35m11:55:58 [94mquai-gpu-miner- [0mJob: [97m34ff0a34… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:59 [94mquai-gpu-miner- [0mJob: [97m610c38b8… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:55:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:55:59 [94mquai-gpu-miner- [0mJob: [97m1ef8c4c2… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:00 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:00 [94mquai-gpu-miner- [0mJob: [97m78ff09a5… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:01 [94mquai-gpu-miner- [0mJob: [97m6a161ff6… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:01 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.69 Gh[0m
+[94m i [35m11:56:01 [94mquai-gpu-miner- [0mJob: [97mfe13a802… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:02 [94mquai-gpu-miner- [0mJob: [97mb1c4d7a0… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:03 [94mquai-gpu-miner- [0mJob: [97md5488a42… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:03 [94mquai-gpu-miner- [0mJob: [97m024eb665… block 28197[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:04 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.81 Gh[0m
+[94m i [35m11:56:04 [94mquai-gpu-miner- [0mJob: [97m7fe2356d… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:05 [94mquai-gpu-miner- [0mJob: [97m1c0eed45… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:05 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.88 Gh[0m
+[94m i [35m11:56:05 [94mquai-gpu-miner- [0mJob: [97m7b03fec8… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:05 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:05 [94mquai-gpu-miner- [0mJob: [97mc6842ba5… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:06 [94mquai-gpu-miner- [0mJob: [97mf16f2c3a… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:07 [94mquai-gpu-miner- [0mJob: [97mb7178b1b… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:07 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.01 Gh[0m
+[94m i [35m11:56:07 [94mquai-gpu-miner- [0mJob: [97ma985463d… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:08 [94mquai-gpu-miner- [0mJob: [97m4ac1ca8b… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:09 [94mquai-gpu-miner- [0mJob: [97mb7aac80e… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:10 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m11:56:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:10 [94mquai-gpu-miner- [0mJob: [97m1f0dffd6… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:11 [94mquai-gpu-miner- [0mJob: [97m4af53b42… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:11 [94mquai-gpu-miner- [0mJob: [97mea625e29… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:12 [94mquai-gpu-miner- [0mJob: [97m9f70051c… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:13 [94mquai-gpu-miner- [0mJob: [97m9c1f93a0… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:13 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.10 Gh[0m
+[94m i [35m11:56:13 [94mquai-gpu-miner- [0mJob: [97m19ac826f… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:14 [94mquai-gpu-miner- [0mJob: [97mf958ddd6… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:14 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.07 Gh[0m
+[94m i [35m11:56:14 [94mquai-gpu-miner- [0mJob: [97m277ff7a2… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:15 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:15 [94mquai-gpu-miner- [0mJob: [97mee82665d… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:15 [94mquai-gpu-miner- [0mJob: [97m7038c4d7… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:16 [94mquai-gpu-miner- [0mJob: [97mededd299… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:17 [94mquai-gpu-miner- [0mJob: [97m16ba145e… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:18 [94mquai-gpu-miner- [0mJob: [97m5d6309f5… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:19 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.20 Gh[0m
+[94m i [35m11:56:19 [94mquai-gpu-miner- [0mJob: [97m95a99933… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:19 [94mquai-gpu-miner- [0mJob: [97mb0ec4cfe… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:20 [94mquai-gpu-miner- [0mJob: [97mfdc0bc57… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:20 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:21 [94mquai-gpu-miner- [0mJob: [97mc52c5748… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:21 [94mquai-gpu-miner- [0mJob: [97me3e3eebb… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:22 [94mquai-gpu-miner- [0mJob: [97m319f6d21… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:22 [94mquai-gpu-miner- [0mJob: [97md4c7348d… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:23 [94mquai-gpu-miner- [0mJob: [97mb7e9c51c… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:23 [94mquai-gpu-miner- [0mJob: [97mf39176bf… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:25 [94mquai-gpu-miner- [0mJob: [97mf4f45337… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:25 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:25 [94mquai-gpu-miner- [0mJob: [97m267c7023… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:26 [94mquai-gpu-miner- [0mJob: [97mc6acc19e… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:27 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.14 Gh[0m
+[94m i [35m11:56:27 [94mquai-gpu-miner- [0mJob: [97m2287598e… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:27 [94mquai-gpu-miner- [0mJob: [97mbfa4575c… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:28 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:28 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.27 Gh[0m
+[94m i [35m11:56:28 [94mquai-gpu-miner- [0mJob: [97m9de05aef… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:29 [94mquai-gpu-miner- [0mJob: [97m2ade7097… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:30 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:30 [94mquai-gpu-miner- [0mJob: [97m6761b35c… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:31 [94mquai-gpu-miner- [0mJob: [97m7d4d4ad7… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:31 [94mquai-gpu-miner- [0mJob: [97m03c3fdb7… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:32 [94mquai-gpu-miner- [0mJob: [97mdd7066d1… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:33 [94mquai-gpu-miner- [0mJob: [97m1b218b92… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:34 [94mquai-gpu-miner- [0mJob: [97mb6960ec8… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:35 [94mquai-gpu-miner- [0mJob: [97m3d87a971… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:35 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:35 [94mquai-gpu-miner- [0mJob: [97m2c67491d… block 28198[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:35 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.17 Gh[0m
+[94m i [35m11:56:35 [94mquai-gpu-miner- [0mJob: [97md243cc3d… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:36 [94mquai-gpu-miner- [0mJob: [97mb2bcb241… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:37 [94mquai-gpu-miner- [0mJob: [97m3252e3cb… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:37 [94mquai-gpu-miner- [0mJob: [97m73fe926a… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:38 [94mquai-gpu-miner- [0mJob: [97ma7806d42… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:38 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.27 Gh[0m
+[94m i [35m11:56:38 [94mquai-gpu-miner- [0mJob: [97m773b28d8… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:39 [94mquai-gpu-miner- [0mJob: [97m16b8df5a… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:40 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.36 Gh[0m
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mJob: [97me59bdf21… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.33 Gh[0m
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mJob: [97m1fa349b4… block 28199[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.46 Gh[0m
+[94m i [35m11:56:41 [94mquai-gpu-miner- [0mJob: [97m50a8dfb4… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[33mcu [35m11:56:41 [94mcuda-0    [0mLaunching period 2,820 ProgPow kernel
+[33mcu [35m11:56:42 [94mcuda-0    [0mPre-compiled period 2,821 CUDA ProgPow kernel for arch 8.9
+[94m i [35m11:56:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:42 [94mquai-gpu-miner- [0mJob: [97m3029c349… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:42 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.62 Gh[0m
+[94m i [35m11:56:42 [94mquai-gpu-miner- [0mJob: [97mccb3f7b6… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:43 [94mquai-gpu-miner- [0mJob: [97maed38bfc… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:43 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.75 Gh[0m
+[94m i [35m11:56:43 [94mquai-gpu-miner- [0mJob: [97m1a450678… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:44 [94mquai-gpu-miner- [0mJob: [97m94313d11… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:45 [94mquai-gpu-miner- [0m[32m0:04[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m11:56:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:45 [94mquai-gpu-miner- [0mJob: [97ma25ff7c6… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:46 [94mquai-gpu-miner- [0mJob: [97md1f3f812… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:47 [94mquai-gpu-miner- [0mJob: [97m1ae56b11… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:48 [94mquai-gpu-miner- [0mJob: [97mcacc10ea… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:49 [94mquai-gpu-miner- [0mJob: [97m0a2256c2… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:50 [94mquai-gpu-miner- [0mJob: [97mc4ba54c9… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:50 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.71 Mh[0m - cu0 [36m7.71[0m
+[94m i [35m11:56:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:51 [94mquai-gpu-miner- [0mJob: [97md60322be… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:51 [94mquai-gpu-miner- [0mJob: [97mdbaa41d7… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:53 [94mquai-gpu-miner- [0mJob: [97mddae249e… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:53 [94mquai-gpu-miner- [0mJob: [97m3a697516… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:53 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.88 Gh[0m
+[94m i [35m11:56:53 [94mquai-gpu-miner- [0mJob: [97m52282d07… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:54 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:54 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.85 Gh[0m
+[94m i [35m11:56:54 [94mquai-gpu-miner- [0mJob: [97md00f774d… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:55 [94mquai-gpu-miner- [0mJob: [97m5a97e258… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:56:55 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:56:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:55 [94mquai-gpu-miner- [0mJob: [97m0831b291… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:56 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:56 [94mquai-gpu-miner- [0mJob: [97m05853a68… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:57 [94mquai-gpu-miner- [0mJob: [97m72137fbe… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:57 [94mquai-gpu-miner- [0mJob: [97ma5f4dcc0… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:58 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:58 [94mquai-gpu-miner- [0mJob: [97mbdf720ee… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:58 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:58 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.72 Gh[0m
+[94m i [35m11:56:58 [94mquai-gpu-miner- [0mJob: [97m8d606c88… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:59 [94mquai-gpu-miner- [0mJob: [97m35d6a658… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:56:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:56:59 [94mquai-gpu-miner- [0mJob: [97ma66b60af… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:00 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:57:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:00 [94mquai-gpu-miner- [0mJob: [97m7fd51fed… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:01 [94mquai-gpu-miner- [0mJob: [97mcd7ed3c5… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:01 [94mquai-gpu-miner- [0mJob: [97m1d56bdd5… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:02 [94mquai-gpu-miner- [0mJob: [97m87306464… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:03 [94mquai-gpu-miner- [0mJob: [97me0e6f2dd… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:04 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.75 Gh[0m
+[94m i [35m11:57:04 [94mquai-gpu-miner- [0mJob: [97m521c2f73… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:05 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m11:57:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:05 [94mquai-gpu-miner- [0mJob: [97m052bd95d… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:05 [94mquai-gpu-miner- [0mJob: [97md8fa321d… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:06 [94mquai-gpu-miner- [0mJob: [97ma3457fb0… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:07 [94mquai-gpu-miner- [0mJob: [97m0dea1929… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:07 [94mquai-gpu-miner- [0mJob: [97m4f359a91… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:08 [94mquai-gpu-miner- [0mJob: [97mde2771ef… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:09 [94mquai-gpu-miner- [0mJob: [97me02d029f… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:09 [94mquai-gpu-miner- [0mJob: [97mbef31365… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:09 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.85 Gh[0m
+[94m i [35m11:57:09 [94mquai-gpu-miner- [0mJob: [97mc8bdd1e4… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:10 [94mquai-gpu-miner- [0mJob: [97mb689c3e4… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:10 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:57:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:11 [94mquai-gpu-miner- [0mJob: [97md1f5568b… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:11 [94mquai-gpu-miner- [0mJob: [97m1950e0ae… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:12 [94mquai-gpu-miner- [0mJob: [97mb0959951… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:12 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.95 Gh[0m
+[94m i [35m11:57:12 [94mquai-gpu-miner- [0mJob: [97ma83771ce… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:13 [94mquai-gpu-miner- [0mJob: [97m6f4884bb… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:13 [94mquai-gpu-miner- [0mJob: [97m8188225f… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:14 [94mquai-gpu-miner- [0mJob: [97mcf3f0c10… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:15 [94mquai-gpu-miner- [0mJob: [97me6a88211… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:15 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:57:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:15 [94mquai-gpu-miner- [0mJob: [97m51d75252… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:16 [94mquai-gpu-miner- [0mJob: [97md301ef92… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:17 [94mquai-gpu-miner- [0mJob: [97m1f5d2be2… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:17 [94mquai-gpu-miner- [0mJob: [97mbfd20db3… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:18 [94mquai-gpu-miner- [0mJob: [97m2207451b… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:19 [94mquai-gpu-miner- [0mJob: [97m150b26ec… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:19 [94mquai-gpu-miner- [0mJob: [97m221f5d26… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:20 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m11:57:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:21 [94mquai-gpu-miner- [0mJob: [97m8dab0c58… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:22 [94mquai-gpu-miner- [0mJob: [97m47d4d3c5… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:23 [94mquai-gpu-miner- [0mJob: [97m93a9f332… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:24 [94mquai-gpu-miner- [0mJob: [97m089433fc… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:25 [94mquai-gpu-miner- [0mJob: [97m5b6cbd2c… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:25 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:57:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:25 [94mquai-gpu-miner- [0mJob: [97m1cac4a10… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:26 [94mquai-gpu-miner- [0mJob: [97meeb3ad84… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:27 [94mquai-gpu-miner- [0mJob: [97m498fca8f… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:27 [94mquai-gpu-miner- [0mJob: [97m73763e58… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:29 [94mquai-gpu-miner- [0mJob: [97m67a355c0… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:30 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:57:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:30 [94mquai-gpu-miner- [0mJob: [97m3e775fda… block 28200[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:30 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m109.08 Gh[0m
+[94m i [35m11:57:30 [94mquai-gpu-miner- [0mJob: [97m41951017… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:31 [94mquai-gpu-miner- [0mJob: [97m25f5494f… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:31 [94mquai-gpu-miner- [0mJob: [97m77275a7a… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:32 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.65 Gh[0m
+[94m i [35m11:57:32 [94mquai-gpu-miner- [0mJob: [97m49759e08… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:32 [94mquai-gpu-miner- [0mJob: [97m55b61f36… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:33 [94mquai-gpu-miner- [0mJob: [97mb7dca0f5… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:33 [94mquai-gpu-miner- [0mJob: [97mb128ca5c… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:35 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:57:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:35 [94mquai-gpu-miner- [0mJob: [97mf9d89549… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:35 [94mquai-gpu-miner- [0mJob: [97m558621af… block 28201[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:37 [94mquai-gpu-miner- [0mJob: [97m335f55b3… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:38 [94mquai-gpu-miner- [0mJob: [97m85763443… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:39 [94mquai-gpu-miner- [0mJob: [97mc50550d6… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:39 [94mquai-gpu-miner- [0mJob: [97mb9dab43e… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:39 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.72 Gh[0m
+[94m i [35m11:57:39 [94mquai-gpu-miner- [0mJob: [97m7d987c95… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:40 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m11:57:40 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:40 [94mquai-gpu-miner- [0mJob: [97mffeeb941… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:41 [94mquai-gpu-miner- [0mJob: [97m834f2800… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:41 [94mquai-gpu-miner- [0mJob: [97mac2cbb67… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:42 [94mquai-gpu-miner- [0mJob: [97mce3e1386… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:43 [94mquai-gpu-miner- [0mJob: [97mdb95c21b… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:43 [94mquai-gpu-miner- [0mJob: [97ma4abd862… block 28202[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:44 [94mquai-gpu-miner- [0mJob: [97m629addf4… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:45 [94mquai-gpu-miner- [0mJob: [97m8f4ad045… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:45 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.88 Gh[0m
+[94m i [35m11:57:45 [94mquai-gpu-miner- [0mJob: [97m1af505f6… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:45 [94mquai-gpu-miner- [0m[32m0:05[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m11:57:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:46 [94mquai-gpu-miner- [0mJob: [97m267d0de5… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:47 [94mquai-gpu-miner- [0mJob: [97maa2baa55… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:47 [94mquai-gpu-miner- [0mJob: [97ma386f332… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:48 [94mquai-gpu-miner- [0mJob: [97ma7be4ac4… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:49 [94mquai-gpu-miner- [0mJob: [97me15381ba… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:50 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:57:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:51 [94mquai-gpu-miner- [0mJob: [97med8e3e51… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:51 [94mquai-gpu-miner- [0mJob: [97mc2f27b65… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:52 [94mquai-gpu-miner- [0mJob: [97mbacbde4f… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:53 [94mquai-gpu-miner- [0mJob: [97mc4ca77b4… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:54 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:54 [94mquai-gpu-miner- [0mJob: [97mbc91ca5a… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:57:55 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:57:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:55 [94mquai-gpu-miner- [0mJob: [97mdbf49029… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:56 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:56 [94mquai-gpu-miner- [0mJob: [97mc3efc6c0… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:57 [94mquai-gpu-miner- [0mJob: [97me4bc7ee3… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:57 [94mquai-gpu-miner- [0mJob: [97m81997b8a… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:57 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.98 Gh[0m
+[94m i [35m11:57:57 [94mquai-gpu-miner- [0mJob: [97m138f91f2… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:58 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:58 [94mquai-gpu-miner- [0mJob: [97m03210a65… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:59 [94mquai-gpu-miner- [0mJob: [97m62ca3b8d… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:57:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:57:59 [94mquai-gpu-miner- [0mJob: [97ma4933cb8… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:00 [94mquai-gpu-miner- [0mJob: [97mfbeb9cf6… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:00 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.75 Gh[0m
+[94m i [35m11:58:00 [94mquai-gpu-miner- [0mJob: [97m42ec569b… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:00 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:01 [94mquai-gpu-miner- [0mJob: [97m3e300c9c… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:01 [94mquai-gpu-miner- [0mJob: [97m0b2d9ced… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:03 [94mquai-gpu-miner- [0mJob: [97m8ba15448… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:03 [94mquai-gpu-miner- [0mJob: [97mc4e03e28… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:04 [94mquai-gpu-miner- [0mJob: [97m917f3ca6… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:05 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m11:58:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:05 [94mquai-gpu-miner- [0mJob: [97m634b3209… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:07 [94mquai-gpu-miner- [0mJob: [97md92a6286… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:07 [94mquai-gpu-miner- [0mJob: [97m0f012935… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:08 [94mquai-gpu-miner- [0mJob: [97m7ee57a3c… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:09 [94mquai-gpu-miner- [0mJob: [97m33ff1a22… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:10 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:10 [94mquai-gpu-miner- [0mJob: [97mcbfa94c8… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:11 [94mquai-gpu-miner- [0mJob: [97m98e5efa6… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:12 [94mquai-gpu-miner- [0mJob: [97me89e18a2… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:13 [94mquai-gpu-miner- [0mJob: [97mbcb013b2… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:13 [94mquai-gpu-miner- [0mJob: [97ma4cd7d43… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:14 [94mquai-gpu-miner- [0mJob: [97mbbd3922c… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:15 [94mquai-gpu-miner- [0mJob: [97m227b46b7… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:15 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:15 [94mquai-gpu-miner- [0mJob: [97m9af19f43… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:16 [94mquai-gpu-miner- [0mJob: [97mc160945e… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:17 [94mquai-gpu-miner- [0mJob: [97m72600ad1… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:19 [94mquai-gpu-miner- [0mJob: [97m12162ff4… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:20 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.82 Gh[0m
+[94m i [35m11:58:20 [94mquai-gpu-miner- [0mJob: [97mba9fae9f… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:20 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:21 [94mquai-gpu-miner- [0mJob: [97ma0453358… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:21 [94mquai-gpu-miner- [0mJob: [97mab2f4c1a… block 28203[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:21 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.33 Gh[0m
+[94m i [35m11:58:21 [94mquai-gpu-miner- [0mJob: [97m66ffa68d… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:22 [94mquai-gpu-miner- [0mJob: [97m703a8745… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:23 [94mquai-gpu-miner- [0mJob: [97mf35076ff… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:23 [94mquai-gpu-miner- [0mJob: [97m1dcf034b… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:24 [94mquai-gpu-miner- [0mJob: [97m69f32dc8… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:25 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:25 [94mquai-gpu-miner- [0mJob: [97mfa30a8af… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:27 [94mquai-gpu-miner- [0mJob: [97mf8d4b590… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:27 [94mquai-gpu-miner- [0mJob: [97mdf5542c2… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:28 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:28 [94mquai-gpu-miner- [0mJob: [97m5f267e45… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:29 [94mquai-gpu-miner- [0mJob: [97m8bf35da3… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:30 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:31 [94mquai-gpu-miner- [0mJob: [97m5ca44112… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:31 [94mquai-gpu-miner- [0mJob: [97m2ce249f2… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:33 [94mquai-gpu-miner- [0mJob: [97mf93abf02… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:33 [94mquai-gpu-miner- [0mJob: [97m171536c1… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:34 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.46 Gh[0m
+[94m i [35m11:58:34 [94mquai-gpu-miner- [0mJob: [97mbe417a66… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:35 [94mquai-gpu-miner- [0mJob: [97m12277d66… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:35 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:35 [94mquai-gpu-miner- [0mJob: [97m773ef2bc… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:36 [94mquai-gpu-miner- [0mJob: [97m93335e35… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:37 [94mquai-gpu-miner- [0mJob: [97m3c52258d… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:37 [94mquai-gpu-miner- [0mJob: [97m83d23360… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:39 [94mquai-gpu-miner- [0mJob: [97m066a06b5… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:40 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:40 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:40 [94mquai-gpu-miner- [0mJob: [97mebb3752e… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:41 [94mquai-gpu-miner- [0mJob: [97mf29ede39… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:41 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.20 Gh[0m
+[94m i [35m11:58:41 [94mquai-gpu-miner- [0mJob: [97m6a2472a1… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:41 [94mquai-gpu-miner- [0mJob: [97m65828fc6… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:42 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.13 Gh[0m
+[94m i [35m11:58:42 [94mquai-gpu-miner- [0mJob: [97mf0de85ba… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:43 [94mquai-gpu-miner- [0mJob: [97mf3926f3c… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:43 [94mquai-gpu-miner- [0mJob: [97mcee8e46b… block 28204[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:44 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.23 Gh[0m
+[94m i [35m11:58:44 [94mquai-gpu-miner- [0mJob: [97mba6aae8b… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:45 [94mquai-gpu-miner- [0mJob: [97m78055942… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:45 [94mquai-gpu-miner- [0m[32m0:06[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:45 [94mquai-gpu-miner- [0mJob: [97mfba272f6… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:47 [94mquai-gpu-miner- [0mJob: [97m9930fc81… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:47 [94mquai-gpu-miner- [0mJob: [97m6407af34… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:48 [94mquai-gpu-miner- [0mJob: [97m00b1e9da… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:48 [94mquai-gpu-miner- [0mJob: [97m6549252f… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:49 [94mquai-gpu-miner- [0mJob: [97m57622469… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:49 [94mquai-gpu-miner- [0mJob: [97md950fd16… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:49 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.36 Gh[0m
+[94m i [35m11:58:49 [94mquai-gpu-miner- [0mJob: [97m66c5569d… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:50 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:50 [94mquai-gpu-miner- [0mJob: [97m6306aa0a… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:51 [94mquai-gpu-miner- [0mJob: [97m925dd762… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:51 [94mquai-gpu-miner- [0mJob: [97mc3f400e1… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:52 [94mquai-gpu-miner- [0mJob: [97m4f0bd4c9… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:53 [94mquai-gpu-miner- [0mJob: [97m889fd763… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:53 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.52 Gh[0m
+[94m i [35m11:58:53 [94mquai-gpu-miner- [0mJob: [97m462b7057… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:54 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:54 [94mquai-gpu-miner- [0mJob: [97mea29dcc7… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:58:55 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:58:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:55 [94mquai-gpu-miner- [0mJob: [97m5577fc39… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:56 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:56 [94mquai-gpu-miner- [0mJob: [97m41f43cd5… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:57 [94mquai-gpu-miner- [0mJob: [97m0df5b169… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:57 [94mquai-gpu-miner- [0mJob: [97mbdf0102d… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:58 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:58 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.46 Gh[0m
+[94m i [35m11:58:58 [94mquai-gpu-miner- [0mJob: [97mbecff945… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:59 [94mquai-gpu-miner- [0mJob: [97mdf650ca7… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:58:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:58:59 [94mquai-gpu-miner- [0mJob: [97m6ed1e6ad… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:00 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:00 [94mquai-gpu-miner- [0mJob: [97mfefcd978… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:01 [94mquai-gpu-miner- [0mJob: [97mcb07c9eb… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:01 [94mquai-gpu-miner- [0mJob: [97meba8b3be… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:03 [94mquai-gpu-miner- [0mJob: [97m6504b446… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:03 [94mquai-gpu-miner- [0mJob: [97m1fc916ee… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:04 [94mquai-gpu-miner- [0mJob: [97me14232b8… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:05 [94mquai-gpu-miner- [0mJob: [97mcfc48d39… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:05 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:05 [94mquai-gpu-miner- [0mJob: [97m41fcf2ba… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:07 [94mquai-gpu-miner- [0mJob: [97m3986f53e… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:07 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.33 Gh[0m
+[94m i [35m11:59:07 [94mquai-gpu-miner- [0mJob: [97m619dbf72… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:08 [94mquai-gpu-miner- [0mJob: [97mc2126a48… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:09 [94mquai-gpu-miner- [0mJob: [97md3ae581f… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:10 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:10 [94mquai-gpu-miner- [0mJob: [97mb1735853… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:11 [94mquai-gpu-miner- [0mJob: [97m64a24e05… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:12 [94mquai-gpu-miner- [0mJob: [97m5041d632… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:12 [94mquai-gpu-miner- [0mJob: [97m5c680abe… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:13 [94mquai-gpu-miner- [0mJob: [97m77bc5d2c… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:13 [94mquai-gpu-miner- [0mJob: [97m4a938611… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:14 [94mquai-gpu-miner- [0mJob: [97m76800767… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:15 [94mquai-gpu-miner- [0mJob: [97m41a22231… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:15 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:15 [94mquai-gpu-miner- [0mJob: [97m040abefa… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:17 [94mquai-gpu-miner- [0mJob: [97mc42d2808… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:19 [94mquai-gpu-miner- [0mJob: [97m832631cc… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:19 [94mquai-gpu-miner- [0mJob: [97m18ddd0d8… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:19 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.42 Gh[0m
+[94m i [35m11:59:19 [94mquai-gpu-miner- [0mJob: [97mdace003a… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:20 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:20 [94mquai-gpu-miner- [0mJob: [97m32806790… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:21 [94mquai-gpu-miner- [0mJob: [97mfed00a8e… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:22 [94mquai-gpu-miner- [0mJob: [97mdc983ab3… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:23 [94mquai-gpu-miner- [0mJob: [97m4b583f0d… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:23 [94mquai-gpu-miner- [0mJob: [97m7fab5c46… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:24 [94mquai-gpu-miner- [0mJob: [97m07225b9e… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:25 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:25 [94mquai-gpu-miner- [0mJob: [97m5fceb74d… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:26 [94mquai-gpu-miner- [0mJob: [97md7711882… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:27 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.17 Gh[0m
+[94m i [35m11:59:27 [94mquai-gpu-miner- [0mJob: [97me4a2e5dd… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:27 [94mquai-gpu-miner- [0mJob: [97m9f585bc0… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:28 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:28 [94mquai-gpu-miner- [0mJob: [97m8b20be8a… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:29 [94mquai-gpu-miner- [0mJob: [97mce19df9f… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:29 [94mquai-gpu-miner- [0mJob: [97mefaeab76… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:30 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:30 [94mquai-gpu-miner- [0mJob: [97m0b285d6d… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:31 [94mquai-gpu-miner- [0mJob: [97md1154d50… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:33 [94mquai-gpu-miner- [0mJob: [97mfa660828… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:34 [94mquai-gpu-miner- [0mJob: [97m1aab879b… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:35 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:35 [94mquai-gpu-miner- [0mJob: [97m4cf533ce… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:37 [94mquai-gpu-miner- [0mJob: [97mac30beac… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:37 [94mquai-gpu-miner- [0mJob: [97m9271d989… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:38 [94mquai-gpu-miner- [0mJob: [97mc11f12f5… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:38 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.94 Gh[0m
+[94m i [35m11:59:38 [94mquai-gpu-miner- [0mJob: [97m94c1aa27… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:39 [94mquai-gpu-miner- [0mJob: [97me8a54d30… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:40 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:41 [94mquai-gpu-miner- [0mJob: [97ma3edff8f… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:42 [94mquai-gpu-miner- [0mJob: [97m18b96a8d… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:43 [94mquai-gpu-miner- [0mJob: [97m7b5321b3… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:43 [94mquai-gpu-miner- [0mJob: [97m50593263… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:44 [94mquai-gpu-miner- [0mJob: [97m00329cf6… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:45 [94mquai-gpu-miner- [0mJob: [97m2a7e983c… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:45 [94mquai-gpu-miner- [0m[32m0:07[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:45 [94mquai-gpu-miner- [0mJob: [97m294a3558… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:46 [94mquai-gpu-miner- [0mJob: [97m2f5c29f6… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:47 [94mquai-gpu-miner- [0mJob: [97mdeab2d30… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:47 [94mquai-gpu-miner- [0mJob: [97m8d4959ea… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:48 [94mquai-gpu-miner- [0mJob: [97m3a308127… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:49 [94mquai-gpu-miner- [0mJob: [97m1a471f7a… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:49 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.07 Gh[0m
+[94m i [35m11:59:49 [94mquai-gpu-miner- [0mJob: [97m3ce36d8b… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:50 [94mquai-gpu-miner- [0mJob: [97m588c615a… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:50 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m11:59:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:51 [94mquai-gpu-miner- [0mJob: [97m0b9ab808… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:52 [94mquai-gpu-miner- [0mJob: [97meabf8f54… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:52 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.16 Gh[0m
+[94m i [35m11:59:52 [94mquai-gpu-miner- [0mJob: [97m40da5109… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:53 [94mquai-gpu-miner- [0mJob: [97m9c7e6663… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m11:59:55 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m11:59:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:55 [94mquai-gpu-miner- [0mJob: [97m539e0ce2… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:56 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:56 [94mquai-gpu-miner- [0mJob: [97mb346fc9d… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:57 [94mquai-gpu-miner- [0mJob: [97m51cbe991… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:58 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:58 [94mquai-gpu-miner- [0mJob: [97m26e8710f… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:59 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.07 Gh[0m
+[94m i [35m11:59:59 [94mquai-gpu-miner- [0mJob: [97mfc5f75fb… block 28205[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:59 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.26 Gh[0m
+[94m i [35m11:59:59 [94mquai-gpu-miner- [0mJob: [97md7f404ac… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m11:59:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m11:59:59 [94mquai-gpu-miner- [0mJob: [97mbf80d770… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:00 [94mquai-gpu-miner- [0mJob: [97mb9fd708d… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:00 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:00:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:01 [94mquai-gpu-miner- [0mJob: [97mf98684db… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:01 [94mquai-gpu-miner- [0mJob: [97m541d535b… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:02 [94mquai-gpu-miner- [0mJob: [97mc9df352a… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:03 [94mquai-gpu-miner- [0mJob: [97m2ffae05b… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:04 [94mquai-gpu-miner- [0mJob: [97m0c5fc406… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:05 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m12:00:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:05 [94mquai-gpu-miner- [0mJob: [97m0df30834… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:06 [94mquai-gpu-miner- [0mJob: [97m79486e1b… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:06 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.97 Gh[0m
+[94m i [35m12:00:06 [94mquai-gpu-miner- [0mJob: [97m29f48b50… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:07 [94mquai-gpu-miner- [0mJob: [97meb672b53… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:07 [94mquai-gpu-miner- [0mJob: [97m61e21e7a… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:09 [94mquai-gpu-miner- [0mJob: [97mc61d1793… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:09 [94mquai-gpu-miner- [0mJob: [97md5b76d58… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:10 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:00:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:10 [94mquai-gpu-miner- [0mJob: [97me4631052… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:11 [94mquai-gpu-miner- [0mJob: [97mef3936fe… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:13 [94mquai-gpu-miner- [0mJob: [97m885119ff… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:13 [94mquai-gpu-miner- [0mJob: [97m1f9e8dcc… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:14 [94mquai-gpu-miner- [0mJob: [97m75a4ceed… block 28206[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:14 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.91 Gh[0m
+[94m i [35m12:00:14 [94mquai-gpu-miner- [0mJob: [97mba3e5e90… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:15 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m12:00:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:15 [94mquai-gpu-miner- [0mJob: [97mbabddd55… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:17 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.97 Gh[0m
+[94m i [35m12:00:17 [94mquai-gpu-miner- [0mJob: [97m8b62cf51… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:18 [94mquai-gpu-miner- [0mJob: [97m64e51fdd… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:19 [94mquai-gpu-miner- [0mJob: [97ma1160187… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:20 [94mquai-gpu-miner- [0mJob: [97mf67293bc… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:20 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:00:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:20 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.10 Gh[0m
+[94m i [35m12:00:20 [94mquai-gpu-miner- [0mJob: [97m767f4133… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:21 [94mquai-gpu-miner- [0mJob: [97mc93d2724… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:21 [94mquai-gpu-miner- [0mJob: [97m8d25f55c… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:22 [94mquai-gpu-miner- [0mJob: [97m512b580e… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:23 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.16 Gh[0m
+[94m i [35m12:00:23 [94mquai-gpu-miner- [0mJob: [97m2de96bad… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:23 [94mquai-gpu-miner- [0mJob: [97m23ca4b30… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:24 [94mquai-gpu-miner- [0mJob: [97m7b1bba4a… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:25 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:00:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:25 [94mquai-gpu-miner- [0mJob: [97mc4fdb415… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:26 [94mquai-gpu-miner- [0mJob: [97mfad37513… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:27 [94mquai-gpu-miner- [0mJob: [97m27618e4b… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:27 [94mquai-gpu-miner- [0mJob: [97m93a5015d… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:29 [94mquai-gpu-miner- [0mJob: [97mef54d960… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:29 [94mquai-gpu-miner- [0mJob: [97mdf9f523d… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:30 [94mquai-gpu-miner- [0mJob: [97m082ba37f… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:30 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m12:00:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:31 [94mquai-gpu-miner- [0mJob: [97m21981f95… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:32 [94mquai-gpu-miner- [0mJob: [97mf64719a1… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:33 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.23 Gh[0m
+[94m i [35m12:00:33 [94mquai-gpu-miner- [0mJob: [97m33320340… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:33 [94mquai-gpu-miner- [0mJob: [97mf0af68a6… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:34 [94mquai-gpu-miner- [0mJob: [97m2887c8ce… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:35 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:00:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:35 [94mquai-gpu-miner- [0mJob: [97m8792d796… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:35 [94mquai-gpu-miner- [0mJob: [97mc7460de4… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:36 [94mquai-gpu-miner- [0mJob: [97mf82af707… block 28207[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:37 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.07 Gh[0m
+[94m i [35m12:00:37 [94mquai-gpu-miner- [0mJob: [97m9fcd330b… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:37 [94mquai-gpu-miner- [0mJob: [97m51812738… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:37 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.13 Gh[0m
+[94m i [35m12:00:37 [94mquai-gpu-miner- [0mJob: [97ma17d2b23… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:38 [94mquai-gpu-miner- [0mJob: [97m926bbccf… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:39 [94mquai-gpu-miner- [0mJob: [97m58693ffa… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:40 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:40 [94mquai-gpu-miner- [0mJob: [97m85756a63… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:40 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:00:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:41 [94mquai-gpu-miner- [0mJob: [97ma0fdbe06… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:43 [94mquai-gpu-miner- [0mJob: [97maadc2b17… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:44 [94mquai-gpu-miner- [0mJob: [97mfca4355f… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:45 [94mquai-gpu-miner- [0m[32m0:08[0m[1;97m A0[0m [1;36m7.84 Mh[0m - cu0 [36m7.84[0m
+[94m i [35m12:00:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:45 [94mquai-gpu-miner- [0mJob: [97m641ddf4c… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:45 [94mquai-gpu-miner- [0mJob: [97m75c57f39… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:46 [94mquai-gpu-miner- [0mJob: [97m777c4359… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:47 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.00 Gh[0m
+[94m i [35m12:00:47 [94mquai-gpu-miner- [0mJob: [97m06ed86e1… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:47 [94mquai-gpu-miner- [0mJob: [97md93c6675… block 28208[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:47 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.23 Gh[0m
+[94m i [35m12:00:47 [94mquai-gpu-miner- [0mJob: [97mff52f82a… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:48 [94mquai-gpu-miner- [0mJob: [97m84f54c27… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:49 [94mquai-gpu-miner- [0mJob: [97m93a8c0e4… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:50 [94mquai-gpu-miner- [0m[32m0:09[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:00:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:50 [94mquai-gpu-miner- [0mJob: [97mac4165c7… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:51 [94mquai-gpu-miner- [0mJob: [97m4d5fbfe5… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:51 [94mquai-gpu-miner- [0mJob: [97m3de53a9a… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:52 [94mquai-gpu-miner- [0mJob: [97m0200e7d0… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:53 [94mquai-gpu-miner- [0mJob: [97m99279311… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:54 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:54 [94mquai-gpu-miner- [0mJob: [97m2733a451… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:00:55 [94mquai-gpu-miner- [0m[32m0:09[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:00:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:55 [94mquai-gpu-miner- [0mJob: [97m3ca93043… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:57 [94mquai-gpu-miner- [0mJob: [97m1ddb61f5… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:00:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:00:59 [94mquai-gpu-miner- [0mJob: [97m1be7e18d… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:01:00 [94mquai-gpu-miner- [0m[32m0:09[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:01:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:00 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m108.10 Gh[0m
+[94m i [35m12:01:00 [94mquai-gpu-miner- [0mJob: [97m607ad5db… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:01 [94mquai-gpu-miner- [0mJob: [97mcc34d595… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:02 [94mquai-gpu-miner- [0mJob: [97mef751924… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:03 [94mquai-gpu-miner- [0mJob: [97m4ac4e413… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:04 [94mquai-gpu-miner- [0mJob: [97m25d52cba… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:01:05 [94mquai-gpu-miner- [0m[32m0:09[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:01:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:05 [94mquai-gpu-miner- [0mJob: [97md3a55c8b… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:07 [94mquai-gpu-miner- [0mJob: [97med023c7f… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:07 [94mquai-gpu-miner- [0mEpoch : [97m0[0m Difficulty : [97m107.65 Gh[0m
+[94m i [35m12:01:07 [94mquai-gpu-miner- [0mJob: [97mca60e9d2… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:08 [94mquai-gpu-miner- [0mJob: [97m1396f586… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:09 [94mquai-gpu-miner- [0mJob: [97m9b3d7caa… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:09 [94mquai-gpu-miner- [0mJob: [97m95adf5fb… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[32m m [35m12:01:10 [94mquai-gpu-miner- [0m[32m0:09[0m[1;97m A0[0m [1;36m7.85 Mh[0m - cu0 [36m7.85[0m
+[94m i [35m12:01:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:10 [94mquai-gpu-miner- [0mJob: [97m7240e0a9… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:11 [94mquai-gpu-miner- [0mJob: [97m61794c2b… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
+[94m i [35m12:01:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m1a85[0m
+[94m i [35m12:01:13 [94mquai-gpu-miner- [0mJob: [97m77061d7d… block 28209[0m koala.straffesites.be [194.163.144.34:3333]
