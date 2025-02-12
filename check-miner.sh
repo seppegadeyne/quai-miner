@@ -9,9 +9,9 @@ if ! command -v killall &> /dev/null; then
     sudo apt-get update && sudo apt-get install -y psmisc
 fi
 
-# Check if the log file contains "cu0 0.00"
-if grep -q "cu0 0.00" "$LOG_FILE"; then
-    echo "Miner is not running or hash power is zero. Restarting miner..."
+# Check if the log file is empty or contains "cu0 0.00"
+if [ ! -s "$LOG_FILE" ] || grep -q "cu0 0.00" "$LOG_FILE"; then
+    echo "Miner is not running, hash power is zero, or log file is empty. Restarting miner..."
     killall -9 quai-gpu-miner-nvidia
     $MINER_START_SCRIPT &
 fi
