@@ -8,4 +8,4 @@ if [ -f "$LOG_FILE" ]; then
     > "$LOG_FILE"
 fi
 
-$MINER_EXECUTABLE -U -P stratum://suomi.straffesites.be:3333 >> "$LOG_FILE" 2>&1 &
+$MINER_EXECUTABLE -U -P stratum://suomi.straffesites.be:3333 --api-port 9090 >> "$LOG_FILE" 2>&1 &
