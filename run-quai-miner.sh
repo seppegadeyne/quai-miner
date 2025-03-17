@@ -1,7 +1,7 @@
 #!/bin/bash
 
 LOG_FILE="$HOME/quai-miner/miner.log"
-MINER_EXECUTABLE="$HOME/quai-miner/quai-gpu-miner-nvidia-tesla-v100"
+MINER_EXECUTABLE="$HOME/quai-miner/quai-gpu-miner-nvidia-fix"
 
 # Check if the log file exists, if so, empty it
 if [ -f "$LOG_FILE" ]; then
