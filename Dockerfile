@@ -15,7 +15,7 @@ RUN git clone https://github.com/seppegadeyne/quai-miner /quai-miner
 
 # Ga naar de juiste map en voer installatie uit
 WORKDIR /quai-miner
-RUN chmod +x install.sh check.sh && ./install.sh
+RUN chmod +x install.sh check.sh run.sh && ./install.sh
 
 # Start automatisch met check.sh
 CMD ["./check.sh"]
