@@ -11,10 +11,10 @@ RUN apt-get update && \
     dpkg-reconfigure -f noninteractive tzdata
 
 # Clone jouw miner repo
-RUN git clone https://github.com/seppegadeyne/quai-miner /quai-miner
+RUN git clone https://github.com/seppegadeyne/quai-miner /root/quai-miner
 
 # Ga naar de juiste map en voer installatie uit
-WORKDIR /quai-miner
+WORKDIR /root/quai-miner
 RUN chmod +x install.sh check.sh run.sh && ./install.sh
 
 # Start automatisch met check.sh
