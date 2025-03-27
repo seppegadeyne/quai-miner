@@ -1,0 +1,2 @@
+# Docker run command
+# docker run --rm --gpus all --log-opt max-size=10m --log-opt max-file=1 -e PLATFORM=U -e STRATUM_IP=suomi.straffesites.be -e STRATUM_PORT=3333 quainetwork/quai-gpu-miner-run
