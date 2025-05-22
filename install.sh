@@ -1,9 +1,14 @@
 #!/bin/bash
 
-apt-get update 
+apt-get update
 apt-get upgrade -y
 apt-get install -y psmisc screen vim cron
-#apt-get install -y nvidia-cuda-toolkit
 
-service cron start
-(crontab -l ; echo "*/5 * * * * $HOME/quai-miner/check.sh") | crontab -
+# Start en enable cron service
+systemctl enable cron
+systemctl start cron
+
+# Voeg cronjobs toe
+(crontab -l 2>/dev/null || true; echo "*/5 * * * * /bin/bash $HOME/quai-miner/check.sh") | crontab -
+(crontab -l 2>/dev/null || true; echo "0 */4 * * * /bin/bash $HOME/quai-miner/reboot.sh") | crontab -
+

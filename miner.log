@@ -1,442 +1,340 @@
-
-
-quai-gpu-miner 1.2.4+commit.84634fd2
-Build: linux/release/gnu
-
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mConfigured pool suomi.straffesites.be:3333
-[91m X [35m11:40:02 [94mquai-gpu-miner- [0mCould not start API server on port: 0
-[91m X [35m11:40:02 [94mquai-gpu-miner- [0mEnsure port is not in use by another service
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mSelected pool suomi.straffesites.be:3333
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mStratum mode : EthereumStratum/2.0.0
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mEstablished connection to suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mSpinning up miners...
-[33mcu [35m11:40:02 [94mcuda-0    [0mUsing Pci Id : 03:00.0 Tesla V100-SXM2-16GB (Compute 7.0) Memory : 15.77 GB
-[33mcu [35m11:40:02 [94mcuda-1    [0mUsing Pci Id : 04:00.0 Tesla V100-SXM2-16GB (Compute 7.0) Memory : 15.77 GB
-[33mcu [35m11:40:02 [94mcuda-1    [0mReleasing a primary context that has not been previously retained will fail with CUDA_ERROR_INVALID_CONTEXT, this is normal
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mAuthorized worker 
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.18 Gh[0m
-[94m i [35m11:40:02 [94mquai-gpu-miner- [0mJob: [97m6587f16f… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:02 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:02 [94mexe       [0mJob: [97m6587f16f… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:02 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:02 [94mexe       [0mJob: [97m8665f999… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:02 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:02 [94mexe       [0mJob: [97m0ce4e7c5… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mJob: [97m8665f999… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[33mcu [35m11:40:03 [94mcuda-0    [0mGenerating DAG + Light : 4.08 GB
-[33mcu [35m11:40:03 [94mcuda-1    [0mGenerating DAG + Light : 4.08 GB
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mJob: [97m0ce4e7c5… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.23 Gh[0m
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mJob: [97me133dc90… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:03 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:03 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.23 Gh[0m
-[94m i [35m11:40:03 [94mexe       [0mJob: [97me133dc90… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:03 [94mquai-gpu-miner- [0mJob: [97m5cbcd7a6… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:03 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:03 [94mexe       [0mJob: [97m5cbcd7a6… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:04 [94mquai-gpu-miner- [0mJob: [97m3fdf1759… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:04 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:04 [94mexe       [0mJob: [97m3fdf1759… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:04 [94mquai-gpu-miner- [0mJob: [97m3116b07e… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:04 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:04 [94mexe       [0mJob: [97m3116b07e… block 394791[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:05 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.19 Gh[0m
-[94m i [35m11:40:05 [94mquai-gpu-miner- [0mJob: [97m00f0f74b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:05 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:05 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.19 Gh[0m
-[94m i [35m11:40:05 [94mexe       [0mJob: [97m00f0f74b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:05 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:05 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.23 Gh[0m
-[94m i [35m11:40:05 [94mquai-gpu-miner- [0mJob: [97m16f919c2… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:05 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:05 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.23 Gh[0m
-[94m i [35m11:40:05 [94mexe       [0mJob: [97m16f919c2… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:06 [94mexe       [0m[32m38:56[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:06 [94mquai-gpu-miner- [0mJob: [97m0bfd0c85… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:06 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:06 [94mexe       [0mJob: [97m0bfd0c85… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:06 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.28 Gh[0m
-[94m i [35m11:40:06 [94mquai-gpu-miner- [0mJob: [97m745f9c1b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:06 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:06 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.28 Gh[0m
-[94m i [35m11:40:06 [94mexe       [0mJob: [97m745f9c1b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:07 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:07 [94mquai-gpu-miner- [0mJob: [97m899e7eb8… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:07 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:07 [94mexe       [0mJob: [97m899e7eb8… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:08 [94mquai-gpu-miner- [0mJob: [97mc03fc1df… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:08 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:08 [94mexe       [0mJob: [97mc03fc1df… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:08 [94mquai-gpu-miner- [0mJob: [97m72194c74… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:08 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:08 [94mexe       [0mJob: [97m72194c74… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[33mcu [35m11:40:08 [94mcuda-0    [0mGenerated DAG + Light in 5355 ms. 11.69 GB left.
-[33mcu [35m11:40:08 [94mcuda-1    [0mGenerated DAG + Light in 5356 ms. 11.69 GB left.
-[33mcu [35m11:40:09 [94mcuda-0    [0mPre-compiled period 39479 CUDA ProgPow kernel for arch 7.0
-[33mcu [35m11:40:09 [94mcuda-0    [0mLaunching period 39479 ProgPow kernel
-[33mcu [35m11:40:09 [94mcuda-1    [0mPre-compiled period 39479 CUDA ProgPow kernel for arch 7.0
-[33mcu [35m11:40:09 [94mcuda-1    [0mLaunching period 39479 ProgPow kernel
-[94m i [35m11:40:09 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:09 [94mexe       [0mJob: [97mc65f8262… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:09 [94mquai-gpu-miner- [0mJob: [97mc65f8262… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[33mcu [35m11:40:09 [94mcuda-0    [0mPre-compiled period 39480 CUDA ProgPow kernel for arch 7.0
-[33mcu [35m11:40:10 [94mcuda-1    [0mPre-compiled period 39480 CUDA ProgPow kernel for arch 7.0
-[94m i [35m11:40:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:10 [94mquai-gpu-miner- [0mJob: [97m90952c0b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:10 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:10 [94mexe       [0mJob: [97m90952c0b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:10 [94mquai-gpu-miner- [0mJob: [97md3e8399e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:10 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:10 [94mexe       [0mJob: [97md3e8399e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:11 [94mexe       [0m[32m38:56[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[32m m [35m11:40:12 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m72.26 Kh[0m - cu0 [36m36.18[0m, cu1 [36m36.08[0m
-[94m i [35m11:40:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:12 [94mquai-gpu-miner- [0mJob: [97m43deccc0… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:12 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:12 [94mexe       [0mJob: [97m43deccc0… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:12 [94mquai-gpu-miner- [0mJob: [97m29ed09cb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:12 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:12 [94mexe       [0mJob: [97m29ed09cb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:13 [94mquai-gpu-miner- [0mJob: [97m2ef3c7eb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:13 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:13 [94mexe       [0mJob: [97m2ef3c7eb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:14 [94mquai-gpu-miner- [0mJob: [97m3337afb8… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:14 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:14 [94mexe       [0mJob: [97m3337afb8… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:14 [94mquai-gpu-miner- [0mJob: [97m32a1bad2… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:14 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:14 [94mexe       [0mJob: [97m32a1bad2… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:16 [94mexe       [0m[32m38:56[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:16 [94mquai-gpu-miner- [0mJob: [97med487832… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:16 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:16 [94mexe       [0mJob: [97med487832… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:17 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m96.35 Mh[0m - cu0 [36m49.50[0m, cu1 [36m46.85[0m
-[94m i [35m11:40:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:17 [94mquai-gpu-miner- [0mJob: [97mefffe273… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:17 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:17 [94mexe       [0mJob: [97mefffe273… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:18 [94mquai-gpu-miner- [0mJob: [97med5429ad… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:18 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:18 [94mexe       [0mJob: [97med5429ad… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:18 [94mquai-gpu-miner- [0mJob: [97ma410ffae… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:18 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:18 [94mexe       [0mJob: [97ma410ffae… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:19 [94mquai-gpu-miner- [0mJob: [97md4318fb9… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:19 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:19 [94mexe       [0mJob: [97md4318fb9… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:20 [94mquai-gpu-miner- [0mJob: [97mc5fb15b8… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:20 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:20 [94mexe       [0mJob: [97mc5fb15b8… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:20 [94mquai-gpu-miner- [0mJob: [97m755ea9a6… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:20 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:20 [94mexe       [0mJob: [97m755ea9a6… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:21 [94mexe       [0m[32m38:56[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:21 [94mquai-gpu-miner- [0mJob: [97m603ebd78… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:21 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:21 [94mexe       [0mJob: [97m603ebd78… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:22 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m105.57 Mh[0m - cu0 [36m52.81[0m, cu1 [36m52.76[0m
-[94m i [35m11:40:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:22 [94mquai-gpu-miner- [0mJob: [97m024c682b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:22 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:22 [94mexe       [0mJob: [97m024c682b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:22 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.27 Gh[0m
-[94m i [35m11:40:22 [94mquai-gpu-miner- [0mJob: [97mbd9e69b1… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:22 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:22 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.27 Gh[0m
-[94m i [35m11:40:22 [94mexe       [0mJob: [97mbd9e69b1… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:22 [94mquai-gpu-miner- [0mJob: [97m0e4b5755… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:22 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:22 [94mexe       [0mJob: [97m0e4b5755… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:23 [94mquai-gpu-miner- [0mJob: [97m1fdc4c45… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:23 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:23 [94mexe       [0mJob: [97m1fdc4c45… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:23 [94mquai-gpu-miner- [0mJob: [97m6ada05fa… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:23 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:23 [94mexe       [0mJob: [97m6ada05fa… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:24 [94mquai-gpu-miner- [0mJob: [97m4818da7e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:24 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:24 [94mexe       [0mJob: [97m4818da7e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:25 [94mquai-gpu-miner- [0mJob: [97m03d1b613… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:25 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:25 [94mexe       [0mJob: [97m03d1b613… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:26 [94mquai-gpu-miner- [0mJob: [97m69a2f24e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:26 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:26 [94mexe       [0mJob: [97m69a2f24e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:26 [94mexe       [0m[32m38:56[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:26 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.32 Gh[0m
-[94m i [35m11:40:26 [94mquai-gpu-miner- [0mJob: [97m996b9ebd… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:26 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:26 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.32 Gh[0m
-[94m i [35m11:40:26 [94mexe       [0mJob: [97m996b9ebd… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:27 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m105.53 Mh[0m - cu0 [36m52.80[0m, cu1 [36m52.73[0m
-[94m i [35m11:40:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:27 [94mquai-gpu-miner- [0mJob: [97mcc9a57c1… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:27 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:27 [94mexe       [0mJob: [97mcc9a57c1… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:28 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:28 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.34 Gh[0m
-[94m i [35m11:40:28 [94mquai-gpu-miner- [0mJob: [97m4377bc10… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:28 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:28 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.34 Gh[0m
-[94m i [35m11:40:28 [94mexe       [0mJob: [97m4377bc10… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:29 [94mquai-gpu-miner- [0mJob: [97mcbf476f2… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:29 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:29 [94mexe       [0mJob: [97mcbf476f2… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:30 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.38 Gh[0m
-[94m i [35m11:40:30 [94mquai-gpu-miner- [0mJob: [97m5b2ed978… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:30 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:30 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.38 Gh[0m
-[94m i [35m11:40:30 [94mexe       [0mJob: [97m5b2ed978… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:30 [94mquai-gpu-miner- [0mJob: [97mb39cc2ba… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:30 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:30 [94mexe       [0mJob: [97mb39cc2ba… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:31 [94mquai-gpu-miner- [0mJob: [97m31723f8f… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:31 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:31 [94mexe       [0mJob: [97m31723f8f… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:31 [94mexe       [0m[32m38:57[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[32m m [35m11:40:32 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m105.50 Mh[0m - cu0 [36m52.78[0m, cu1 [36m52.71[0m
-[94m i [35m11:40:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:32 [94mquai-gpu-miner- [0mJob: [97m866c5d04… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:32 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:32 [94mexe       [0mJob: [97m866c5d04… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:32 [94mquai-gpu-miner- [0mJob: [97m6b105cf8… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:32 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:32 [94mexe       [0mJob: [97m6b105cf8… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:33 [94mquai-gpu-miner- [0mJob: [97m304b695e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:33 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:33 [94mexe       [0mJob: [97m304b695e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:34 [94mquai-gpu-miner- [0mJob: [97m259b2158… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:34 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:34 [94mexe       [0mJob: [97m259b2158… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:34 [94mquai-gpu-miner- [0mJob: [97macdf9811… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:34 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:34 [94mexe       [0mJob: [97macdf9811… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:35 [94mquai-gpu-miner- [0mJob: [97m932c62b0… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:35 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:35 [94mexe       [0mJob: [97m932c62b0… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:36 [94mexe       [0m[32m38:57[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:36 [94mquai-gpu-miner- [0mJob: [97m3566ebd5… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:36 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:36 [94mexe       [0mJob: [97m3566ebd5… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:36 [94mquai-gpu-miner- [0mJob: [97me4083555… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:36 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:36 [94mexe       [0mJob: [97me4083555… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:37 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m105.55 Mh[0m - cu0 [36m52.80[0m, cu1 [36m52.75[0m
-[94m i [35m11:40:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:37 [94mquai-gpu-miner- [0mJob: [97m4142a15f… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:37 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:37 [94mexe       [0mJob: [97m4142a15f… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:37 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.42 Gh[0m
-[94m i [35m11:40:37 [94mquai-gpu-miner- [0mJob: [97m38abb730… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:37 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:37 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.42 Gh[0m
-[94m i [35m11:40:37 [94mexe       [0mJob: [97m38abb730… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:38 [94mquai-gpu-miner- [0mJob: [97m8c8c8777… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:38 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:38 [94mexe       [0mJob: [97m8c8c8777… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:38 [94mquai-gpu-miner- [0mJob: [97m5132a260… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:38 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:38 [94mexe       [0mJob: [97m5132a260… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:40 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:40 [94mquai-gpu-miner- [0mJob: [97m58340505… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:40 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:40 [94mexe       [0mJob: [97m58340505… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:40 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:40 [94mquai-gpu-miner- [0mJob: [97m47239cf9… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:40 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:40 [94mexe       [0mJob: [97m47239cf9… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:41 [94mexe       [0m[32m38:57[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:41 [94mquai-gpu-miner- [0mJob: [97mc2cf9ccb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:41 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:41 [94mexe       [0mJob: [97mc2cf9ccb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:42 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m105.51 Mh[0m - cu0 [36m52.78[0m, cu1 [36m52.73[0m
-[94m i [35m11:40:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:42 [94mquai-gpu-miner- [0mJob: [97m849b8fc4… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:42 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:42 [94mexe       [0mJob: [97m849b8fc4… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:43 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.39 Gh[0m
-[94m i [35m11:40:43 [94mquai-gpu-miner- [0mJob: [97m56a3f0fa… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:43 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:43 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.39 Gh[0m
-[94m i [35m11:40:43 [94mexe       [0mJob: [97m56a3f0fa… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:44 [94mquai-gpu-miner- [0mJob: [97m0358b832… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:44 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:44 [94mexe       [0mJob: [97m0358b832… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:44 [94mquai-gpu-miner- [0mJob: [97mba53de9b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:44 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:44 [94mexe       [0mJob: [97mba53de9b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:45 [94mquai-gpu-miner- [0mJob: [97m0b5e3362… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:45 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:45 [94mexe       [0mJob: [97m0b5e3362… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:46 [94mexe       [0m[32m38:57[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:46 [94mquai-gpu-miner- [0mJob: [97mcdda5cfb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:46 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:46 [94mexe       [0mJob: [97mcdda5cfb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:46 [94mquai-gpu-miner- [0mJob: [97m54d165c0… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:46 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:46 [94mexe       [0mJob: [97m54d165c0… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:47 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m105.51 Mh[0m - cu0 [36m52.79[0m, cu1 [36m52.72[0m
-[94m i [35m11:40:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:48 [94mquai-gpu-miner- [0mJob: [97m23af4e95… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:48 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:48 [94mexe       [0mJob: [97m23af4e95… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:48 [94mquai-gpu-miner- [0mJob: [97mea66315c… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:48 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:48 [94mexe       [0mJob: [97mea66315c… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:49 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.38 Gh[0m
-[94m i [35m11:40:49 [94mquai-gpu-miner- [0mJob: [97me15c4443… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:49 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:49 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.38 Gh[0m
-[94m i [35m11:40:49 [94mexe       [0mJob: [97me15c4443… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:50 [94mquai-gpu-miner- [0mJob: [97m21e492cb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:50 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:50 [94mexe       [0mJob: [97m21e492cb… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:50 [94mquai-gpu-miner- [0mJob: [97m708fdc9b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:50 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:50 [94mexe       [0mJob: [97m708fdc9b… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:51 [94mexe       [0m[32m38:57[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:51 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.37 Gh[0m
-[94m i [35m11:40:51 [94mquai-gpu-miner- [0mJob: [97mb51742a2… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:51 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:51 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.37 Gh[0m
-[94m i [35m11:40:51 [94mexe       [0mJob: [97mb51742a2… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:52 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m105.51 Mh[0m - cu0 [36m52.80[0m, cu1 [36m52.71[0m
-[94m i [35m11:40:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:52 [94mquai-gpu-miner- [0mJob: [97m87756e12… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:52 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:52 [94mexe       [0mJob: [97m87756e12… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:52 [94mquai-gpu-miner- [0mJob: [97m02371b18… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:52 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:52 [94mexe       [0mJob: [97m02371b18… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:53 [94mquai-gpu-miner- [0mJob: [97m433cb65e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:53 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:53 [94mexe       [0mJob: [97m433cb65e… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:54 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:54 [94mquai-gpu-miner- [0mJob: [97mdb9fc74f… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:54 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:54 [94mexe       [0mJob: [97mdb9fc74f… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:54 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:54 [94mquai-gpu-miner- [0mJob: [97m15a471a6… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:54 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:54 [94mexe       [0mJob: [97m15a471a6… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:55 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.41 Gh[0m
-[94m i [35m11:40:55 [94mquai-gpu-miner- [0mJob: [97m88516184… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:55 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:55 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.41 Gh[0m
-[94m i [35m11:40:55 [94mexe       [0mJob: [97m88516184… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:56 [94mexe       [0m[32m38:57[0m[1;97m A251[0m [1;36m0.00 h[0m - cu0 [36m0.00[0m, cu1 [36m0.00[0m
-[94m i [35m11:40:56 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:56 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m43.43 Gh[0m
-[94m i [35m11:40:56 [94mquai-gpu-miner- [0mJob: [97m651b650f… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:56 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:56 [94mexe       [0mEpoch : [97m1[0m Difficulty : [97m43.43 Gh[0m
-[94m i [35m11:40:56 [94mexe       [0mJob: [97m651b650f… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[32m m [35m11:40:57 [94mquai-gpu-miner- [0m[32m0:00[0m[1;97m A0[0m [1;36m105.51 Mh[0m - cu0 [36m52.79[0m, cu1 [36m52.73[0m
-[94m i [35m11:40:57 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:57 [94mquai-gpu-miner- [0mJob: [97mdf5a9936… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:57 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:57 [94mexe       [0mJob: [97mdf5a9936… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:58 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:58 [94mquai-gpu-miner- [0mJob: [97mb60ef8a1… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:58 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:58 [94mexe       [0mJob: [97mb60ef8a1… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97ma2e8[0m
-[94m i [35m11:40:59 [94mquai-gpu-miner- [0mJob: [97m648724f7… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:59 [94mexe       [0mExtranonce set to [1;97m5523[0m
-[94m i [35m11:40:59 [94mexe       [0mJob: [97m648724f7… block 394792[0m suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:59 [94mmain      [0mGot interrupt ...
-[94m i [35m11:40:59 [94mmain      [0mGot interrupt ...
-[94m i [35m11:40:59 [94mmain      [0mDisconnected from suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:59 [94mmain      [0mShutting down miners...
-[94m i [35m11:40:59 [94mmain      [0mGot interrupt ...
-[94m i [35m11:40:59 [94mmain      [0mDisconnected from suomi.straffesites.be [135.181.180.251:3333]
-[94m i [35m11:40:59 [94mmain      [0mShutting down miners...
-[94m i [35m11:40:59 [94mmain      [0mTerminated!
-
-
-[94m i [35m11:40:59 [94mmain      [0mTerminated!
-
-
-SIGSEGV encountered ...
-stack trace:
-backtrace() returned 16 addresses
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0xb2568) [0x5c75b976f568]
-/lib/x86_64-linux-gnu/libc.so.6(+0x45330) [0x7d1c8b045330]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x1183f4) [0x5c75b97d53f4]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x11a876) [0x5c75b97d7876]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x141367) [0x5c75b97fe367]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x12fed2) [0x5c75b97eced2]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x131028) [0x5c75b97ee028]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x131432) [0x5c75b97ee432]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x13903e) [0x5c75b97f603e]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x148075) [0x5c75b9805075]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x124fec) [0x5c75b97e1fec]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0xa619d) [0x5c75b976319d]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0xb807f) [0x5c75b977507f]
-/root/quai-miner/quai-gpu-miner-nvidia-latest(+0x4cd7f4) [0x5c75b9b8a7f4]
-/lib/x86_64-linux-gnu/libc.so.6(+0x9caa4) [0x7d1c8b09caa4]
-/lib/x86_64-linux-gnu/libc.so.6(+0x129c3c) [0x7d1c8b129c3c]
+[94m i [35m11:45:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:02 [94mquai-gpu-miner- [0mJob: [97m4355fdb9… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:03 [94mquai-gpu-miner- [0m[32m0:01[0m[1;97m A0[0m [1;36m105.02 Mh[0m - cu0 [36m52.70[0m, cu1 [36m52.32[0m
+[94m i [35m11:45:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:04 [94mquai-gpu-miner- [0mJob: [97m6b9bac66… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:04 [94mquai-gpu-miner- [0mJob: [97m0e20c157… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:06 [94mquai-gpu-miner- [0mJob: [97m68f9586b… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:08 [94mquai-gpu-miner- [0mJob: [97m96e9fef2… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:08 [94mquai-gpu-miner- [0m[32m0:01[0m[1;97m A0[0m [1;36m105.36 Mh[0m - cu0 [36m52.81[0m, cu1 [36m52.56[0m
+[94m i [35m11:45:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:09 [94mquai-gpu-miner- [0mJob: [97m6632a0e0… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:10 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.90 Gh[0m
+[94m i [35m11:45:10 [94mquai-gpu-miner- [0mJob: [97m2c8a5c55… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:10 [94mquai-gpu-miner- [0mJob: [97mff19242e… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:11 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:11 [94mquai-gpu-miner- [0mJob: [97m06b1fffc… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:12 [94mquai-gpu-miner- [0mJob: [97m7951b2b2… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:13 [94mquai-gpu-miner- [0mJob: [97m1287661f… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:13 [94mquai-gpu-miner- [0m[32m0:01[0m[1;97m A0[0m [1;36m105.46 Mh[0m - cu0 [36m52.77[0m, cu1 [36m52.70[0m
+[94m i [35m11:45:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:14 [94mquai-gpu-miner- [0mJob: [97m9dd2b211… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:15 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.48 Gh[0m
+[94m i [35m11:45:15 [94mquai-gpu-miner- [0mJob: [97m6a37e62e… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:16 [94mquai-gpu-miner- [0mJob: [97m5805f0c1… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:16 [94mquai-gpu-miner- [0mJob: [97m0e2cc783… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:16 [94mquai-gpu-miner- [0mJob: [97m550ded33… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:17 [94mquai-gpu-miner- [0mJob: [97m5970706b… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:18 [94mquai-gpu-miner- [0mJob: [97m3cd3fb14… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:18 [94mquai-gpu-miner- [0m[32m0:01[0m[1;97m A0[0m [1;36m105.51 Mh[0m - cu0 [36m52.81[0m, cu1 [36m52.70[0m
+[94m i [35m11:45:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:18 [94mquai-gpu-miner- [0mJob: [97mecf2250b… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:19 [94mquai-gpu-miner- [0mJob: [97m608fd751… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:20 [94mquai-gpu-miner- [0mJob: [97mb5a6904c… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:20 [94mquai-gpu-miner- [0mJob: [97m23450509… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:21 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.53 Gh[0m
+[94m i [35m11:45:21 [94mquai-gpu-miner- [0mJob: [97mc7aeb301… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:22 [94mquai-gpu-miner- [0mJob: [97me5043407… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:22 [94mquai-gpu-miner- [0mJob: [97m9fb75354… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:23 [94mquai-gpu-miner- [0mJob: [97m04be6d61… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:23 [94mquai-gpu-miner- [0m[32m0:01[0m[1;97m A0[0m [1;36m105.48 Mh[0m - cu0 [36m52.78[0m, cu1 [36m52.70[0m
+[94m i [35m11:45:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:24 [94mquai-gpu-miner- [0mJob: [97m19f1a6e7… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:24 [94mquai-gpu-miner- [0mJob: [97mf5101893… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:25 [94mquai-gpu-miner- [0mJob: [97m14a11983… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:26 [94mquai-gpu-miner- [0mJob: [97m24b3c67f… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:27 [94mquai-gpu-miner- [0mJob: [97mb51f4277… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:28 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:28 [94mquai-gpu-miner- [0mJob: [97m0ae66c21… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:28 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:28 [94mquai-gpu-miner- [0mJob: [97m3fb022f8… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:28 [94mquai-gpu-miner- [0m[32m0:01[0m[1;97m A0[0m [1;36m105.48 Mh[0m - cu0 [36m52.77[0m, cu1 [36m52.72[0m
+[94m i [35m11:45:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:29 [94mquai-gpu-miner- [0mJob: [97m18bd6293… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:30 [94mquai-gpu-miner- [0mJob: [97me30d8f6e… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:30 [94mquai-gpu-miner- [0mJob: [97m8d869401… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:31 [94mquai-gpu-miner- [0mJob: [97m6d26d9e1… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:32 [94mquai-gpu-miner- [0mJob: [97ma6624ece… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:32 [94mquai-gpu-miner- [0mJob: [97m8eb6bee0… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:33 [94mquai-gpu-miner- [0m[32m0:01[0m[1;97m A0[0m [1;36m105.41 Mh[0m - cu0 [36m52.73[0m, cu1 [36m52.68[0m
+[94m i [35m11:45:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:34 [94mquai-gpu-miner- [0mJob: [97m99633081… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:35 [94mquai-gpu-miner- [0mJob: [97mb7e0a8f7… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:36 [94mquai-gpu-miner- [0mJob: [97m3a5e9f8d… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:36 [94mquai-gpu-miner- [0mJob: [97m97105653… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:38 [94mquai-gpu-miner- [0mJob: [97mecd5d1c4… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:38 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.53 Mh[0m - cu0 [36m52.79[0m, cu1 [36m52.74[0m
+[94m i [35m11:45:40 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:40 [94mquai-gpu-miner- [0mJob: [97m044dd089… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:41 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.38 Gh[0m
+[94m i [35m11:45:41 [94mquai-gpu-miner- [0mJob: [97m3fb47c66… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:41 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.40 Gh[0m
+[94m i [35m11:45:41 [94mquai-gpu-miner- [0mJob: [97mcd4fb76b… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:42 [94mquai-gpu-miner- [0mJob: [97mc5334082… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:42 [94mquai-gpu-miner- [0mJob: [97m9cbe4bd4… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:43 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.51 Mh[0m - cu0 [36m52.79[0m, cu1 [36m52.73[0m
+[94m i [35m11:45:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:44 [94mquai-gpu-miner- [0mJob: [97mdd08aa20… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:44 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.46 Gh[0m
+[94m i [35m11:45:44 [94mquai-gpu-miner- [0mJob: [97mb58d88e7… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:44 [94mquai-gpu-miner- [0mJob: [97m3c279508… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:45 [94mquai-gpu-miner- [0mJob: [97maed4c718… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:46 [94mquai-gpu-miner- [0mJob: [97m222ade6d… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:46 [94mquai-gpu-miner- [0mJob: [97m480fcc93… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:47 [94mquai-gpu-miner- [0mJob: [97mf01f4b5e… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:48 [94mquai-gpu-miner- [0mJob: [97meab600ff… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:48 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.49 Gh[0m
+[94m i [35m11:45:48 [94mquai-gpu-miner- [0mJob: [97m617b5f4e… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:48 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.56 Mh[0m - cu0 [36m52.81[0m, cu1 [36m52.75[0m
+[94m i [35m11:45:48 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:48 [94mquai-gpu-miner- [0mJob: [97m7aef5d23… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:49 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:49 [94mquai-gpu-miner- [0mJob: [97mcc241eea… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:50 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:50 [94mquai-gpu-miner- [0mJob: [97mc8a80fb7… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:50 [94mquai-gpu-miner- [0mJob: [97mc8a80fb7… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:51 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:51 [94mquai-gpu-miner- [0mJob: [97m289edd29… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:52 [94mquai-gpu-miner- [0mJob: [97md8e5e9ba… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:52 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.50 Gh[0m
+[94m i [35m11:45:52 [94mquai-gpu-miner- [0mJob: [97m55f48932… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:52 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:52 [94mquai-gpu-miner- [0mJob: [97m4db48823… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:53 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:53 [94mquai-gpu-miner- [0mJob: [97m6d15bd31… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:53 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.45 Mh[0m - cu0 [36m52.76[0m, cu1 [36m52.69[0m
+[94m i [35m11:45:54 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:54 [94mquai-gpu-miner- [0mJob: [97m7b548e5f… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:55 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:55 [94mquai-gpu-miner- [0mJob: [97m1a995ebd… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:56 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:56 [94mquai-gpu-miner- [0mJob: [97mfc79a495… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:56 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:56 [94mquai-gpu-miner- [0mJob: [97mde2205d9… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:58 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:58 [94mquai-gpu-miner- [0mJob: [97m0aafff0e… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:45:58 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.46 Mh[0m - cu0 [36m52.76[0m, cu1 [36m52.69[0m
+[94m i [35m11:45:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:59 [94mquai-gpu-miner- [0mJob: [97maa482969… block 394797[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:45:59 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:45:59 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.51 Gh[0m
+[94m i [35m11:45:59 [94mquai-gpu-miner- [0mJob: [97m18d72479… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:00 [94mquai-gpu-miner- [0mJob: [97m040524a8… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:00 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:00 [94mquai-gpu-miner- [0mJob: [97m342bb277… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:01 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:01 [94mquai-gpu-miner- [0mJob: [97m02292900… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:02 [94mquai-gpu-miner- [0mJob: [97m544ff265… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:02 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:02 [94mquai-gpu-miner- [0mJob: [97m62db24c9… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:03 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:03 [94mquai-gpu-miner- [0mJob: [97m4ce2d6ee… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:03 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.50 Mh[0m - cu0 [36m52.78[0m, cu1 [36m52.71[0m
+[94m i [35m11:46:04 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:04 [94mquai-gpu-miner- [0mJob: [97meb68f659… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:06 [94mquai-gpu-miner- [0mJob: [97mefe1a571… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:06 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:06 [94mquai-gpu-miner- [0mJob: [97m331695fd… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:07 [94mquai-gpu-miner- [0mJob: [97m1758b482… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:07 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:07 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.49 Gh[0m
+[94m i [35m11:46:07 [94mquai-gpu-miner- [0mJob: [97ma3cd94d5… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:08 [94mquai-gpu-miner- [0mJob: [97m303cda82… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:08 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:08 [94mquai-gpu-miner- [0mJob: [97m67e2f856… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:08 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.47 Mh[0m - cu0 [36m52.77[0m, cu1 [36m52.71[0m
+[94m i [35m11:46:09 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:09 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.45 Gh[0m
+[94m i [35m11:46:09 [94mquai-gpu-miner- [0mJob: [97mda75423e… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:10 [94mquai-gpu-miner- [0mJob: [97mf9304559… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:10 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:10 [94mquai-gpu-miner- [0mJob: [97m77d6122d… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:12 [94mquai-gpu-miner- [0mJob: [97ma5d772b4… block 394798[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:12 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:12 [94mquai-gpu-miner- [0mJob: [97ma7926f7e… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:13 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:13 [94mquai-gpu-miner- [0mJob: [97m8748a37f… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:13 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.47 Mh[0m - cu0 [36m52.77[0m, cu1 [36m52.70[0m
+[94m i [35m11:46:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:14 [94mquai-gpu-miner- [0mJob: [97m5e66341f… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:14 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:14 [94mquai-gpu-miner- [0mJob: [97m15419710… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:14 [94mquai-gpu-miner- [0mJob: [97m15419710… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:15 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:15 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.50 Gh[0m
+[94m i [35m11:46:15 [94mquai-gpu-miner- [0mJob: [97mf37c68c7… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:16 [94mquai-gpu-miner- [0mJob: [97m136dadb8… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:16 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:16 [94mquai-gpu-miner- [0mJob: [97m44aa24ca… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:17 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:17 [94mquai-gpu-miner- [0mJob: [97m05eaaa21… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:18 [94mquai-gpu-miner- [0mJob: [97md4a503d3… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:18 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.55 Gh[0m
+[94m i [35m11:46:18 [94mquai-gpu-miner- [0mJob: [97m06a7bfd1… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:18 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.51 Mh[0m - cu0 [36m52.79[0m, cu1 [36m52.72[0m
+[94m i [35m11:46:18 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:18 [94mquai-gpu-miner- [0mJob: [97mf7a64daf… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:19 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:19 [94mquai-gpu-miner- [0mJob: [97mffa7d3f0… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:20 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:20 [94mquai-gpu-miner- [0mJob: [97mbf4a5210… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:21 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:21 [94mquai-gpu-miner- [0mJob: [97m22da3d4e… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:22 [94mquai-gpu-miner- [0mJob: [97m96ed76b0… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:22 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:22 [94mquai-gpu-miner- [0mJob: [97m0b378914… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:23 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:23 [94mquai-gpu-miner- [0mJob: [97m708c80c1… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:23 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.48 Mh[0m - cu0 [36m52.77[0m, cu1 [36m52.71[0m
+[94m i [35m11:46:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:24 [94mquai-gpu-miner- [0mJob: [97med2ad254… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:24 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:24 [94mquai-gpu-miner- [0mJob: [97m4674b51f… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:25 [94mquai-gpu-miner- [0mJob: [97m08fa0a97… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:25 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:25 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.50 Gh[0m
+[94m i [35m11:46:25 [94mquai-gpu-miner- [0mJob: [97m36371e40… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:26 [94mquai-gpu-miner- [0mJob: [97mcb19ef66… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:26 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:26 [94mquai-gpu-miner- [0mJob: [97m842689dd… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:27 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:27 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.54 Gh[0m
+[94m i [35m11:46:27 [94mquai-gpu-miner- [0mJob: [97m9c4d1d56… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:28 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:28 [94mquai-gpu-miner- [0mJob: [97m5da09e15… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:28 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.50 Mh[0m - cu0 [36m52.79[0m, cu1 [36m52.71[0m
+[94m i [35m11:46:28 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:28 [94mquai-gpu-miner- [0mJob: [97mf0fd1039… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:29 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:29 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.56 Gh[0m
+[94m i [35m11:46:29 [94mquai-gpu-miner- [0mJob: [97mce39de7a… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:30 [94mquai-gpu-miner- [0mJob: [97mef47f70b… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:30 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:30 [94mquai-gpu-miner- [0mJob: [97m3d46da9c… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:31 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:31 [94mquai-gpu-miner- [0mJob: [97m62b72d1e… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:32 [94mquai-gpu-miner- [0mJob: [97me7612b3c… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:32 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:32 [94mquai-gpu-miner- [0mJob: [97m314869e3… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:33 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:33 [94mquai-gpu-miner- [0mJob: [97m7e10301c… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:33 [94mquai-gpu-miner- [0m[32m0:02[0m[1;97m A0[0m [1;36m105.47 Mh[0m - cu0 [36m52.77[0m, cu1 [36m52.70[0m
+[94m i [35m11:46:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:34 [94mquai-gpu-miner- [0mJob: [97m3ca632b9… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:34 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.61 Gh[0m
+[94m i [35m11:46:34 [94mquai-gpu-miner- [0mJob: [97m86bda9b8… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:34 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:34 [94mquai-gpu-miner- [0mJob: [97me5be4899… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:35 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:35 [94mquai-gpu-miner- [0mJob: [97ma83b3009… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:36 [94mquai-gpu-miner- [0mJob: [97m8181b9c7… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:36 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:36 [94mquai-gpu-miner- [0mJob: [97m16ff1a81… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:37 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:37 [94mquai-gpu-miner- [0mJob: [97m6a1ef6ad… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:38 [94mquai-gpu-miner- [0mJob: [97m022aaa2d… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:38 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:38 [94mquai-gpu-miner- [0mJob: [97mca7deedc… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:38 [94mquai-gpu-miner- [0m[32m0:03[0m[1;97m A0[0m [1;36m105.46 Mh[0m - cu0 [36m52.78[0m, cu1 [36m52.68[0m
+[94m i [35m11:46:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:39 [94mquai-gpu-miner- [0mJob: [97me69aebfb… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:39 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:39 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.62 Gh[0m
+[94m i [35m11:46:39 [94mquai-gpu-miner- [0mJob: [97m0d131f70… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:40 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:40 [94mquai-gpu-miner- [0mJob: [97mb12dcc5d… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:40 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:40 [94mquai-gpu-miner- [0mJob: [97m8ad0044f… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:41 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:41 [94mquai-gpu-miner- [0mJob: [97md9e22a48… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:42 [94mquai-gpu-miner- [0mJob: [97me2f90dec… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:42 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:42 [94mquai-gpu-miner- [0mJob: [97mbe3830da… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:43 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:43 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.67 Gh[0m
+[94m i [35m11:46:43 [94mquai-gpu-miner- [0mJob: [97m6ed1b8bd… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[32m m [35m11:46:43 [94mquai-gpu-miner- [0m[32m0:03[0m[1;97m A0[0m [1;36m105.42 Mh[0m - cu0 [36m52.78[0m, cu1 [36m52.64[0m
+[94m i [35m11:46:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:44 [94mquai-gpu-miner- [0mJob: [97m4046a66e… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:44 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:44 [94mquai-gpu-miner- [0mJob: [97m0568ef03… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:45 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:45 [94mquai-gpu-miner- [0mJob: [97m473a21fa… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:46 [94mquai-gpu-miner- [0mJob: [97mec025452… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:46 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:46 [94mquai-gpu-miner- [0mJob: [97m40cad966… block 394799[0m suomi.straffesites.be [135.181.180.251:3333]
+[94m i [35m11:46:47 [94mquai-gpu-miner- [0mExtranonce set to [1;97m8629[0m
+[94m i [35m11:46:47 [94mquai-gpu-miner- [0mEpoch : [97m1[0m Difficulty : [97m42.66 Gh[0m
+[94m i [35m11:46:47 [94mquai-gpu-miner- [0mJob: [97mc64b047f… block 394800[0m suomi.straffesites.be [135.181.180.251:3333]
+[33mcu [35m11:46:47 [94mcuda-0    [0mLaunching period 39480 ProgPow kernel
+[33mcu [35m11:46:47 [94mcuda-1    [0mLaunching period 39480 ProgPow kernel
+[33mcu [35m11:46:47 [94mcuda-0    [0mPre-compiled period 39481 CUDA ProgPow kernel for arch 7.0
